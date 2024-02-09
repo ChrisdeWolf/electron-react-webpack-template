@@ -1,0 +1,10 @@
+.serif-font {
+  font-family: Monospace, Monaco;
+}
+
+.title {
+  composes: serif-font;
+  color: rgb(82, 24, 144);
+  font-size: 30px;
+  line-height: 35px;
+}
